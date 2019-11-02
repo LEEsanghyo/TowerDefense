@@ -1,0 +1,1854 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-11-03T05:04:44.150+09:00
+  initializedAtString: 2019-11-03T04:58:26.931+09:00
+  log:
+  - commitID: ef763513a47575a16bc3a35ed73ee18e95a5e9b5
+    mergeA: 
+    mergeB: 
+    authorName: LEEsanghyo
+    authorEmail: tunyou2005@gmail.com
+    commitEmail: tunyou2005@gmail.com
+    commitName: LEEsanghyo
+    summary: '[feat] upload all files'
+    description: 
+    timeString: 2019-11-03T05:02:20.000+09:00
+    commitTimeString: 2019-11-03T05:02:20.000+09:00
+    changes:
+    - path: Packages\manifest.json
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 9efb7ec5b2c5b4b6ad76406df6e6853bc868bebf
+    mergeA: 
+    mergeB: 
+    authorName: LEEsanghyo
+    authorEmail: tunyou2005@gmail.com
+    commitEmail: tunyou2005@gmail.com
+    commitName: LEEsanghyo
+    summary: '[feat] upload project'
+    description: -upload all files
+    timeString: 2019-11-03T05:01:47.000+09:00
+    commitTimeString: 2019-11-03T05:01:47.000+09:00
+    changes:
+    - path: Assets\Animation.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation.meta
+      projectPath: Assets\Animation.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Field_Meterial.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Field_Meterial.meta
+      projectPath: Assets\Animation\Field_Meterial.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Game_Resource.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Game_Resource.meta
+      projectPath: Assets\Animation\Game_Resource.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Monster.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Monster.meta
+      projectPath: Assets\Animation\Monster.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Monster\TextEffect.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Monster\TextEffect.meta
+      projectPath: Assets\Animation\Monster\TextEffect.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Monster\TextEffect\DamageText.controller
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Monster\TextEffect\DamageText.controller
+      projectPath: Assets\Animation\Monster\TextEffect\DamageText.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Monster\TextEffect\DamageText.controller.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Monster\TextEffect\DamageText.controller.meta
+      projectPath: Assets\Animation\Monster\TextEffect\DamageText.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Monster\TextEffect\Damage_Text_Animation.anim
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Monster\TextEffect\Damage_Text_Animation.anim
+      projectPath: Assets\Animation\Monster\TextEffect\Damage_Text_Animation.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Monster\TextEffect\Damage_Text_Animation.anim.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Monster\TextEffect\Damage_Text_Animation.anim.meta
+      projectPath: Assets\Animation\Monster\TextEffect\Damage_Text_Animation.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Tower.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Tower.meta
+      projectPath: Assets\Animation\Tower.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Tower\Red_Stick_Animation.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Tower\Red_Stick_Animation.meta
+      projectPath: Assets\Animation\Tower\Red_Stick_Animation.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Amination_Controller.controller
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Amination_Controller.controller
+      projectPath: Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Amination_Controller.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Amination_Controller.controller.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Amination_Controller.controller.meta
+      projectPath: Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Amination_Controller.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Amination_Controller_Born.anim
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Amination_Controller_Born.anim
+      projectPath: Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Amination_Controller_Born.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Amination_Controller_Born.anim.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Amination_Controller_Born.anim.meta
+      projectPath: Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Amination_Controller_Born.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Tower\Red_Stick_Animation\R_Unit_AnimateController.anim
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Tower\Red_Stick_Animation\R_Unit_AnimateController.anim
+      projectPath: Assets\Animation\Tower\Red_Stick_Animation\R_Unit_AnimateController.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Tower\Red_Stick_Animation\R_Unit_AnimateController.anim.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Tower\Red_Stick_Animation\R_Unit_AnimateController.anim.meta
+      projectPath: Assets\Animation\Tower\Red_Stick_Animation\R_Unit_AnimateController.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Animation_Controller_Attack.anim
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Animation_Controller_Attack.anim
+      projectPath: Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Animation_Controller_Attack.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Animation_Controller_Attack.anim.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Animation_Controller_Attack.anim.meta
+      projectPath: Assets\Animation\Tower\Red_Stick_Animation\R_Unit_Animation_Controller_Attack.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Audio.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Audio.meta
+      projectPath: Assets\Audio.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Audio\Field_Meterial.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Audio\Field_Meterial.meta
+      projectPath: Assets\Audio\Field_Meterial.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Audio\Game_Resource.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Audio\Game_Resource.meta
+      projectPath: Assets\Audio\Game_Resource.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Audio\Monster.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Audio\Monster.meta
+      projectPath: Assets\Audio\Monster.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Audio\Monster\Monster_sound.wav
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Audio\Monster\Monster_sound.wav
+      projectPath: Assets\Audio\Monster\Monster_sound.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Audio\Monster\Monster_sound.wav.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Audio\Monster\Monster_sound.wav.meta
+      projectPath: Assets\Audio\Monster\Monster_sound.wav.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Audio\Tower.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Audio\Tower.meta
+      projectPath: Assets\Audio\Tower.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Audio\Tower\Attack_sound.wav
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Audio\Tower\Attack_sound.wav
+      projectPath: Assets\Audio\Tower\Attack_sound.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Audio\Tower\Attack_sound.wav.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Audio\Tower\Attack_sound.wav.meta
+      projectPath: Assets\Audio\Tower\Attack_sound.wav.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Effects.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Effects.meta
+      projectPath: Assets\Effects.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Effects\Field_Meterial.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Effects\Field_Meterial.meta
+      projectPath: Assets\Effects\Field_Meterial.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Effects\Game_Resource.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Effects\Game_Resource.meta
+      projectPath: Assets\Effects\Game_Resource.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Effects\Monster.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Effects\Monster.meta
+      projectPath: Assets\Effects\Monster.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Effects\Tower.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Effects\Tower.meta
+      projectPath: Assets\Effects\Tower.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource.meta
+      projectPath: Assets\External_Resource.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects.meta
+      projectPath: Assets\External_Resource\KY_effects.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\00_4x4.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\00_4x4.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\00_4x4.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\00_4x4.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\00_4x4.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\00_4x4.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Ground.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Ground.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Ground.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Ground.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Ground.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Ground.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Light.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Light.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Light.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Light.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Light.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Light.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Star.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Star.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Star.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Star.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Star.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Star.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Wall.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Wall.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Wall.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Wall.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Wall.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\Wall.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\circle.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\circle.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\circle.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\circle.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\circle.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\circle.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\darkBall_4x4.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\darkBall_4x4.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\darkBall_4x4.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\darkBall_4x4.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\darkBall_4x4.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\darkBall_4x4.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\dust_b.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\dust_b.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\dust_b.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\dust_b.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\dust_b.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\dust_b.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\explosion_4x4.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\explosion_4x4.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\explosion_4x4.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\explosion_4x4.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\explosion_4x4.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\explosion_4x4.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\fire_8x2.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\fire_8x2.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\fire_8x2.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\fire_8x2.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\fire_8x2.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\fire_8x2.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\frame_ball_00.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\frame_ball_00.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\frame_ball_00.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\frame_ball_00.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\frame_ball_00.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\frame_ball_00.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\hit_4x2.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\hit_4x2.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\hit_4x2.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\hit_4x2.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\hit_4x2.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\hit_4x2.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\primitive.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\primitive.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\primitive.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\primitive.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\primitive.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\primitive.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_00000_8x2.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_00000_8x2.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_00000_8x2.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_00000_8x2.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_00000_8x2.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_00000_8x2.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_coreb00000_4x4.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_coreb00000_4x4.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_coreb00000_4x4.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_coreb00000_4x4.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_coreb00000_4x4.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_coreb00000_4x4.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_in00000_4x4.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_in00000_4x4.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_in00000_4x4.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_in00000_4x4.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_in00000_4x4.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project1_in00000_4x4.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project2_4x4.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project2_4x4.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project2_4x4.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project2_4x4.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project2_4x4.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\project2_4x4.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\skill_6x2.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\skill_6x2.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\skill_6x2.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\skill_6x2.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\skill_6x2.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\skill_6x2.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\skill_core_4x4.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\skill_core_4x4.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\skill_core_4x4.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\skill_core_4x4.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\skill_core_4x4.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\skill_core_4x4.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\smoke_4x4.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\smoke_4x4.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\smoke_4x4.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\smoke_4x4.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\smoke_4x4.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\smoke_4x4.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\spark00.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\spark00.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\spark00.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\spark00.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\spark00.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\spark00.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\sphere.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\sphere.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\sphere.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\sphere.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\sphere.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\sphere.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\thander_core_4x4.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\thander_core_4x4.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\thander_core_4x4.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\thander_core_4x4.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\thander_core_4x4.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\thander_core_4x4.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\whity_b_4x4.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\whity_b_4x4.mat
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\whity_b_4x4.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\whity_b_4x4.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\whity_b_4x4.mat.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Materials\whity_b_4x4.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\ReadMe.txt
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\ReadMe.txt
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\ReadMe.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\ReadMe.txt.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\ReadMe.txt.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\ReadMe.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\00_4x4.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\00_4x4.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\00_4x4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\00_4x4.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\00_4x4.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\00_4x4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\Star.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\Star.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\Star.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\Star.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\Star.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\Star.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\bg.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\bg.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\bg.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\bg.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\bg.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\bg.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\circle.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\circle.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\circle.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\circle.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\circle.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\circle.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\dust_b.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\dust_b.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\dust_b.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\dust_b.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\dust_b.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\dust_b.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\explosion_4x4.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\explosion_4x4.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\explosion_4x4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\explosion_4x4.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\explosion_4x4.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\explosion_4x4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\fire_8x2.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\fire_8x2.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\fire_8x2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\fire_8x2.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\fire_8x2.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\fire_8x2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\frame_ball_00.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\frame_ball_00.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\frame_ball_00.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\frame_ball_00.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\frame_ball_00.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\frame_ball_00.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\greenCore_4x4.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\greenCore_4x4.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\greenCore_4x4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\greenCore_4x4.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\greenCore_4x4.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\greenCore_4x4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\hit_4x2.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\hit_4x2.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\hit_4x2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\hit_4x2.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\hit_4x2.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\hit_4x2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_00000_8x2.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_00000_8x2.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_00000_8x2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_00000_8x2.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_00000_8x2.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_00000_8x2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_coreb00000_4x4.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_coreb00000_4x4.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_coreb00000_4x4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_coreb00000_4x4.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_coreb00000_4x4.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_coreb00000_4x4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_in00000_4x4.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_in00000_4x4.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_in00000_4x4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_in00000_4x4.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_in00000_4x4.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project1_in00000_4x4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project2_4x4.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project2_4x4.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project2_4x4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project2_4x4.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project2_4x4.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\project2_4x4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_6x2.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_6x2.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_6x2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_6x2.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_6x2.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_6x2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_core_4x4.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_core_4x4.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_core_4x4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_core_4x4.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_core_4x4.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_core_4x4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_sw_4x2.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_sw_4x2.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_sw_4x2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_sw_4x2.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_sw_4x2.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_sw_4x2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_sw_4x3.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_sw_4x3.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_sw_4x3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_sw_4x3.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_sw_4x3.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\skill_sw_4x3.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\smoke_4x4.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\smoke_4x4.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\smoke_4x4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\smoke_4x4.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\smoke_4x4.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\smoke_4x4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\spark00.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\spark00.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\spark00.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\spark00.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\spark00.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\spark00.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\thander_core_4x4.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\thander_core_4x4.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\thander_core_4x4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\thander_core_4x4.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\thander_core_4x4.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\thander_core_4x4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\whity_4x4.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\whity_4x4.png
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\whity_4x4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\whity_4x4.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\whity_4x4.png.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\Textures\whity_4x4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\ErekiBall.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\ErekiBall.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\ErekiBall.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\ErekiBall.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\ErekiBall.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\ErekiBall.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\ErekiBall2.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\ErekiBall2.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\ErekiBall2.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\ErekiBall2.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\ErekiBall2.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\ErekiBall2.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\GreenCore.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\GreenCore.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\GreenCore.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\GreenCore.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\GreenCore.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\GreenCore.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\Spark.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\Spark.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\Spark.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\Spark.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\Spark.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\Spark.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\WhityBomb.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\WhityBomb.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\WhityBomb.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\WhityBomb.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\WhityBomb.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\WhityBomb.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\energyBlast.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\energyBlast.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\energyBlast.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\energyBlast.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\energyBlast.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\energyBlast.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\fireShot.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\fireShot.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\fireShot.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\fireShot.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\fireShot.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\fireShot.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\frameBall.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\frameBall.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\frameBall.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\frameBall.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\frameBall.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\frameBall.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\skillAttack.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\skillAttack.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\skillAttack.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\skillAttack.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\skillAttack.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\skillAttack.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\skillAttack2.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\skillAttack2.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\skillAttack2.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\skillAttack2.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\skillAttack2.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\00_primitive\skillAttack2.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\ErekiBall.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\ErekiBall.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\ErekiBall.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\ErekiBall.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\ErekiBall.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\ErekiBall.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\ErekiBall2.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\ErekiBall2.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\ErekiBall2.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\ErekiBall2.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\ErekiBall2.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\ErekiBall2.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\GreenCore.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\GreenCore.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\GreenCore.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\GreenCore.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\GreenCore.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\GreenCore.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\Spark.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\Spark.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\Spark.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\Spark.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\Spark.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\Spark.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\WhityBomb.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\WhityBomb.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\WhityBomb.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\WhityBomb.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\WhityBomb.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\WhityBomb.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\energyBlast.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\energyBlast.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\energyBlast.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\energyBlast.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\energyBlast.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\energyBlast.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\fireShot.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\fireShot.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\fireShot.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\fireShot.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\fireShot.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\fireShot.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\frameBall.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\frameBall.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\frameBall.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\frameBall.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\frameBall.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\frameBall.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\skillAttack.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\skillAttack.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\skillAttack.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\skillAttack.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\skillAttack.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\skillAttack.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\skillAttack2.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\skillAttack2.prefab
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\skillAttack2.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\skillAttack2.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\skillAttack2.prefab.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\prefab\skillAttack2.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\scene.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\scene.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\scene.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\scene\Demo_fre.unity
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\scene\Demo_fre.unity
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\scene\Demo_fre.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\MagicEffectsPackFree\scene\Demo_fre.unity.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\MagicEffectsPackFree\scene\Demo_fre.unity.meta
+      projectPath: Assets\External_Resource\KY_effects\MagicEffectsPackFree\scene\Demo_fre.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\Script.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\Script.meta
+      projectPath: Assets\External_Resource\KY_effects\Script.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\Script\ConGUI.cs
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\Script\ConGUI.cs
+      projectPath: Assets\External_Resource\KY_effects\Script\ConGUI.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\Script\ConGUI.cs.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\Script\ConGUI.cs.meta
+      projectPath: Assets\External_Resource\KY_effects\Script\ConGUI.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\Script\Lighting.cs
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\Script\Lighting.cs
+      projectPath: Assets\External_Resource\KY_effects\Script\Lighting.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\External_Resource\KY_effects\Script\Lighting.cs.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\External_Resource\KY_effects\Script\Lighting.cs.meta
+      projectPath: Assets\External_Resource\KY_effects\Script\Lighting.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\BuildManager.cs
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\BuildManager.cs
+      projectPath: Assets\Scripts\BuildManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\BuildManager.cs.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\BuildManager.cs.meta
+      projectPath: Assets\Scripts\BuildManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Create_Fireball.cs
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\Create_Fireball.cs
+      projectPath: Assets\Scripts\Create_Fireball.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Create_Fireball.cs.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\Create_Fireball.cs.meta
+      projectPath: Assets\Scripts\Create_Fireball.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Field_Meterial.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\Field_Meterial.meta
+      projectPath: Assets\Scripts\Field_Meterial.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Game_Resource.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\Game_Resource.meta
+      projectPath: Assets\Scripts\Game_Resource.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Monster.cs
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\Monster.cs
+      projectPath: Assets\Scripts\Monster.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Monster.cs.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\Monster.cs.meta
+      projectPath: Assets\Scripts\Monster.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Monster.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\Monster.meta
+      projectPath: Assets\Scripts\Monster.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Monster_Move.cs
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\Monster_Move.cs
+      projectPath: Assets\Scripts\Monster_Move.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Monster_Move.cs.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\Monster_Move.cs.meta
+      projectPath: Assets\Scripts\Monster_Move.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Node.cs
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\Node.cs
+      projectPath: Assets\Scripts\Node.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Node.cs.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\Node.cs.meta
+      projectPath: Assets\Scripts\Node.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Splash.cs
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\Splash.cs
+      projectPath: Assets\Scripts\Splash.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Splash.cs.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\Splash.cs.meta
+      projectPath: Assets\Scripts\Splash.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Tower.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\Tower.meta
+      projectPath: Assets\Scripts\Tower.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Unit.cs
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\Unit.cs
+      projectPath: Assets\Scripts\Unit.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Unit.cs.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Scripts\Unit.cs.meta
+      projectPath: Assets\Scripts\Unit.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Skins.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Skins.meta
+      projectPath: Assets\Skins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Skins\Field_Meterial.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Skins\Field_Meterial.meta
+      projectPath: Assets\Skins\Field_Meterial.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Skins\Field_Meterial\Road.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Skins\Field_Meterial\Road.meta
+      projectPath: Assets\Skins\Field_Meterial\Road.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Skins\Field_Meterial\Road\Monster_Road_Meterial.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Skins\Field_Meterial\Road\Monster_Road_Meterial.mat
+      projectPath: Assets\Skins\Field_Meterial\Road\Monster_Road_Meterial.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Skins\Field_Meterial\Road\Monster_Road_Meterial.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Skins\Field_Meterial\Road\Monster_Road_Meterial.mat.meta
+      projectPath: Assets\Skins\Field_Meterial\Road\Monster_Road_Meterial.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Skins\Field_Meterial\Road\Unit_Road_Meterial.mat
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Skins\Field_Meterial\Road\Unit_Road_Meterial.mat
+      projectPath: Assets\Skins\Field_Meterial\Road\Unit_Road_Meterial.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Skins\Field_Meterial\Road\Unit_Road_Meterial.mat.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Skins\Field_Meterial\Road\Unit_Road_Meterial.mat.meta
+      projectPath: Assets\Skins\Field_Meterial\Road\Unit_Road_Meterial.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Skins\Game_Resource.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Skins\Game_Resource.meta
+      projectPath: Assets\Skins\Game_Resource.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Skins\Monster.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Skins\Monster.meta
+      projectPath: Assets\Skins\Monster.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Skins\Monster\Text_Effect.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Skins\Monster\Text_Effect.meta
+      projectPath: Assets\Skins\Monster\Text_Effect.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Skins\Monster\Text_Effect\DamageText.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Skins\Monster\Text_Effect\DamageText.prefab
+      projectPath: Assets\Skins\Monster\Text_Effect\DamageText.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Skins\Monster\Text_Effect\DamageText.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Skins\Monster\Text_Effect\DamageText.prefab.meta
+      projectPath: Assets\Skins\Monster\Text_Effect\DamageText.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Skins\Tower.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Skins\Tower.meta
+      projectPath: Assets\Skins\Tower.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Skins\Tower\Attack_Effect.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Skins\Tower\Attack_Effect.meta
+      projectPath: Assets\Skins\Tower\Attack_Effect.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Skins\Tower\Attack_Effect\SmashEffect.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Skins\Tower\Attack_Effect\SmashEffect.prefab
+      projectPath: Assets\Skins\Tower\Attack_Effect\SmashEffect.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Skins\Tower\Attack_Effect\SmashEffect.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Skins\Tower\Attack_Effect\SmashEffect.prefab.meta
+      projectPath: Assets\Skins\Tower\Attack_Effect\SmashEffect.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Unit.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Unit.meta
+      projectPath: Assets\Unit.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Unit\Field_Meterial.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Unit\Field_Meterial.meta
+      projectPath: Assets\Unit\Field_Meterial.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Unit\Game_Resource.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Unit\Game_Resource.meta
+      projectPath: Assets\Unit\Game_Resource.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Unit\Monster.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Unit\Monster.meta
+      projectPath: Assets\Unit\Monster.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Unit\Tower.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Unit\Tower.meta
+      projectPath: Assets\Unit\Tower.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Unit\Tower\Unit_Node.prefab
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Unit\Tower\Unit_Node.prefab
+      projectPath: Assets\Unit\Tower\Unit_Node.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Unit\Tower\Unit_Node.prefab.meta
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\Unit\Tower\Unit_Node.prefab.meta
+      projectPath: Assets\Unit\Tower\Unit_Node.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 113c90fd989b137279c46c562e2af677a906c18a
+    mergeA: 
+    mergeB: 
+    authorName: LEEsanghyo
+    authorEmail: tunyou2005@gmail.com
+    commitEmail: tunyou2005@gmail.com
+    commitName: LEEsanghyo
+    summary: Initial commit
+    description: 
+    timeString: 2019-11-03T04:58:25.000+09:00
+    commitTimeString: 2019-11-03T04:58:25.000+09:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\LeeSanghyo\Desktop\New Unity Project\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
